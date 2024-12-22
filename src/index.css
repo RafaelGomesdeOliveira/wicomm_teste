@@ -1,0 +1,20 @@
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+@import 'swiper/css/scrollbar';
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullet {
+    @apply  w-[10px] h-[10px] bg-black rounded-full transition-all duration-300 cursor-pointer mx-[10px] opacity-100 ;
+
+}
+
+.swiper-pagination-bullet-active {
+    @apply w-[11px] h-[11px] bg-black scale-110;
+
+}
