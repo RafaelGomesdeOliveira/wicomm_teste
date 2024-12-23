@@ -20,7 +20,7 @@ export default function App() {
   return (
     <>
 
-      <main className='flex w-full  flex-col justify-center'>
+      <main className='relative flex w-full  flex-col justify-center'>
 
         <section className='relative flex justify-center border border-t-[10px] border-[#EFEFEF] '>
           <Header />
