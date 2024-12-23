@@ -105,7 +105,7 @@ export default function Form() {
             {showPopup && (
                 <div className="fixed top-[10%] right-[4%] z-40 bg-white text-black p-3 rounded shadow-[0px_5px_7px_0px_#ccc] flex items-center space-x-2">
                     {/* Ícone de verificado */}
-                    <div className="text-[#CC4B64]">
+                    <div className="text-green-400">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             fill="none"
