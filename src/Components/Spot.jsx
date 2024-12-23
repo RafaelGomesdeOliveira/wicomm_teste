@@ -13,7 +13,7 @@ export default function Spot() {
         <article className=" flex flex-col items-center justify-center w-[310px] h-[436px] bg-[#EFEFEF] relative" onMouseEnter={() => setMouse(true)}
             onMouseLeave={() => setMouse(false)} >
 
-            <article className={`z-50 absolute flex flex-col items-baseline top-[10px] left-[207px] ${mouse && ('top-[9px] left-[208px] transition duration-300')} gap-1`}>
+            <article className={`z-30 absolute flex flex-col items-baseline top-[10px] left-[207px] ${mouse && ('top-[9px] left-[208px] transition duration-300')} gap-1`}>
                 <p className={`uppercase bg-[#4DA1B1] text-center self-end text-[10px] px-[9px] py-[4px] text-white`}><strong>10%</strong>OFF</p>
 
                 <strong className={`w-[93px] uppercase bg-[#E5675D] self-end text-[10px] px-[4px] text-center py-[4px] tracking-[0.5px] text-white`}>lançamento</strong>

@@ -6,7 +6,7 @@ export default function Header() {
 
 
     return (
-        <header className="flex absolute top-[20px] z-30 justify-between flex-row items-center bg-[#1E1E1E] h-[40px] w-[1240px] " >
+        <header className="flex fixed top-[20px] z-50 justify-between flex-row items-center bg-[#1E1E1E] h-[40px] w-[1240px] " >
             <div className="flex flex-row items-center ">
 
 

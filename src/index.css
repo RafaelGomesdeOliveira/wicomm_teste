@@ -10,11 +10,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.swiper-pagination-bullet {
-    @apply  w-[10px] h-[10px] bg-black rounded-full transition-all duration-300 cursor-pointer mx-[10px] opacity-100 ;
-
-}
-
 .swiper-pagination-bullet-active {
     @apply w-[11px] h-[11px] bg-black scale-110;
 
