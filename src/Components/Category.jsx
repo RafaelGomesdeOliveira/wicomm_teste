@@ -63,7 +63,6 @@ export default function Category() {
                         bg='bg-[#EFEFEF]'
                         fontSize='20px'
                         transition={true}
-                        effect={true}
                     />
                     <Button
                         text='minimalismo'
@@ -73,7 +72,6 @@ export default function Category() {
                         bg='bg-[#EFEFEF]'
                         fontSize='20px'
                         transition={true}
-                        effect={true}
                     />
                     <Button
                         text='maximalismo'
@@ -83,7 +81,6 @@ export default function Category() {
                         bg='bg-[#EFEFEF]'
                         fontSize='20px'
                         transition={true}
-                        effect={true}
                     />
 
                     <Button
@@ -94,7 +91,6 @@ export default function Category() {
                         bg='bg-[#EFEFEF]'
                         fontSize='20px'
                         transition={true}
-                        effect={true}
                     />
                     <Button
                         text='ver tudo'
@@ -103,7 +99,6 @@ export default function Category() {
                         bg='bg-[#EFEFEF]'
                         fontSize='20px'
                         transition={true}
-                        effect={true}
                     />
 
 

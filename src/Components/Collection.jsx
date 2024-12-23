@@ -56,6 +56,7 @@ export default function Colletion() {
                 height='45px'
                 fontSize='20px'
                 position='absolute bottom-[34.3%] left-[29.2%]'
+                transition={true}
             />
 
 

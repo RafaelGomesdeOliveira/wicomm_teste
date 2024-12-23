@@ -39,6 +39,8 @@ export default function InfoGat() {
                             width='295px'
                             height='45px'
                             fontSize='20px'
+                            transition={true}
+                            
                         />
                     </div>
                 </aside>
